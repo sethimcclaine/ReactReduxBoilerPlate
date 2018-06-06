@@ -1,0 +1,17 @@
+.profile {
+    .page-header, .page-header div {
+        display: flex;
+        justify-content: center;
+    }
+
+    .well div {
+        margin-bottom: 10px;
+        &:last-of-type {
+            margin-bottom: 0px;
+        }
+    }
+    .btnGroup {
+        display: flex;
+        justify-content: flex-end;
+    }
+}
