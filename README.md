@@ -3,7 +3,7 @@ Boiler Plate set up for React Redux
 
 http://blog.tylerbuchea.com/super-simple-react-redux-application-example/
 
-##Server commands
+## Server commands
     npm start
         Starts the development server.
 
@@ -16,7 +16,7 @@ http://blog.tylerbuchea.com/super-simple-react-redux-application-example/
     npm run eject **Complete** 
         Removes this tool and copies build dependencies, configuration files
         and scripts into the app directory. If you do this, you can’t go back!
-##SASS commands
+## SASS commands
     npm run build-css
         build css files from sass files
         
@@ -26,18 +26,18 @@ http://blog.tylerbuchea.com/super-simple-react-redux-application-example/
 **Note** css files will be created but not stored as they are excluded in the
 .gitignore
 
-##Plugins
+## Plugins
     React-Boostrap (https://react-bootstrap.github.io/components/alerts/)
         Instead of creating our own components I've included react-bootstrap to give us a head start.
 
-##First time 
+## First time 
     Download Node (8.11.2) and NPM
         https://nodejs.org/en/
   
     Install packages
         npm install
 
-##Environment Suggestions 
+## Environment Suggestions 
     Chrome Plug-ins
         React Developer Tools
         Redux
